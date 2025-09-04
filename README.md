@@ -1,4 +1,7 @@
 # codelab02_dart
+NIM = 23417290113
+NAMA = Michelle Dorani Shiba
+
 1. Pada kode tersebut saya menggunakan perulangan for yang dimulai dari nilai i=18 dan terus berkurang (i--) hingga lebih besar dari 8. Sehingga pada tiap iterasi, program akan mencetak kalimat "Nama saya Michelle, sekarang berumur ${i}" dengan nilai i yang berubah mulai dari 18 hingga 9.
 
 2. Karena bahasa Dart adalah inti dari framework Flutter. Memahami Dart adalah dasar untuk bekerja dengan Flutter; pengembang perlu mengetahui asal-usul bahasa Dart, bagaimana komunitas mengerjakannya, kelebihannya, dan mengapa itu adalah bahasa pemrograman yang dipilih untuk Flutter.
