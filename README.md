@@ -1,5 +1,5 @@
 # codelab02_dart
-NIM = 23417290113
+NIM = 2341720113
 NAMA = Michelle Dorani Shiba
 
 1. Pada kode tersebut saya menggunakan perulangan for yang dimulai dari nilai i=18 dan terus berkurang (i--) hingga lebih besar dari 8. Sehingga pada tiap iterasi, program akan mencetak kalimat "Nama saya Michelle, sekarang berumur ${i}" dengan nilai i yang berubah mulai dari 18 hingga 9.
