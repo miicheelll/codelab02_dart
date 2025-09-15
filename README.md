@@ -4,6 +4,8 @@ NAMA = Michelle Dorani Shiba
 
 1. Pada kode tersebut saya menggunakan perulangan for yang dimulai dari nilai i=18 dan terus berkurang (i--) hingga lebih besar dari 8. Sehingga pada tiap iterasi, program akan mencetak kalimat "Nama saya Michelle, sekarang berumur ${i}" dengan nilai i yang berubah mulai dari 18 hingga 9.
 
+![alt text](img/soal1.jpg?raw=true)
+
 2. Karena bahasa Dart adalah inti dari framework Flutter. Memahami Dart adalah dasar untuk bekerja dengan Flutter; pengembang perlu mengetahui asal-usul bahasa Dart, bagaimana komunitas mengerjakannya, kelebihannya, dan mengapa itu adalah bahasa pemrograman yang dipilih untuk Flutter.
 
 3. a. Dasar Dart dan Flutter
@@ -36,3 +38,6 @@ E. Struktur Bahasa Dart
 - Mendukung function dan class untuk modularisasi kode.
 
 4. Null Safety digunakan untuk mencegah kesalahan yang diakibatkan oleh akses tidak disengaja ke variabel yang disetel ke null,  sedangkan Late Variables digunakan untuk mendeklarasikan variabel non-nullable yang akan diinisialisasi setelah deklarasinya. Pada gambar yang saya unggah di folder img, contoh ekseskusi Null Safety (soal4a.jpg) sesuai kode program yang saya buat memang tidak memiliki output apapun, namun dapat terlihat bahwa variabel nama yang saya deklarasikan tidak menyebabkan error NullPointerException. Di sisi lain sontoh eksekusi Late Variable (soal4b.jpg) sesuai kode program yang saya buat menghasilkan output "Michelle", kode tersebut menunjukkan bahwa dengan menggunakan keyword "late" variabel tersebut akan dapat diinisialisasi sebelum digunakan, bukan langsung saat dideklarasikan.
+
+![alt text](img/soal4a.jpg?raw=true)
+![alt text](img/soal4b.jpg?raw=true)
